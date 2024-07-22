@@ -16,7 +16,7 @@
 - Maven 3.6 ou supérieur
 
 ## Installation
-- Clonez le dépôt : **git clone https://github.com/MichaelDSCR/gazStationTPgit .git**
+- Clonez le dépôt : **git clone https://github.com/MichaelDSCR/gazStationTP.git**
 - Accédez au répertoire du projet : **cd votre-projet**
 - Executez l'application : **mvn exec:java -Dexec.mainClass="com.formation.poe.java.gaz.station.Main"**
 - Suivez les instructions dans le menu pour utiliser les différentes fonctionnalités.
